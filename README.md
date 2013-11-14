@@ -1,10 +1,10 @@
-doctrine_core
+Doctrine2 in core php project 
 =============
 
-this  is core php with doctrine itegration  project
+This  is a demo example for doctrine itegration with core php  project
 -----------------------------
 
-Clone ths project with  bellow command
+clone ths project with  bellow command
 
 
  git clone https://github.com/bineetchaubey/doctrine_core.git
@@ -15,7 +15,7 @@ Clone ths project with  bellow command
  
  > composer update
 
-  now modify config-cli.php file for run Doctrine cli command
+now modify config-cli.php file for run Doctrine cli command
 
 import  coreDoctrine.sql database  into your local  database 
 
@@ -23,4 +23,4 @@ Make change on on  bootstrap.php file ie database configuration
 
 start your  server and  start work with help of demo  /demo folder Where i made some initial code for take test .
 
-Note Model file are in src/Entity folder 
+Note -  Model file are in src/Entity folder 
