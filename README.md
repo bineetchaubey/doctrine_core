@@ -24,3 +24,5 @@ Make change on on  bootstrap.php file ie database configuration
 start your  server and  start work with help of demo  /demo folder Where i made some initial code for take test .
 
 Note -  Model file are in src/Entity folder 
+
+Read [link]http://docs.doctrine-project.org/projects/doctrine-orm/en/latest/[/link]  for more info 
